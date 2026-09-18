@@ -1,13 +1,17 @@
 h1 {
     background-color: rgb(230, 32, 128);
     border-radius: 4.87px;
+    text-align: center;
+    color: rgba(122, 12, 69, 0.589);
+    border-radius: 111111px;
 }
 
 #emoji {
+    position: absolute;
     font-size: 20px;
     background: none ;
     cursor: pointer;
-    transition: transform 0.2;
+    border-radius: 32.65px;
 }
 
 .grid {
@@ -15,7 +19,8 @@ h1 {
     margin-top: 50px;
     margin-bottom: 50px;
     width: 534.569px;
-    height: 417.3652px;
-    border-radius: 2.65px;
-    background-color: crimson;
+    height: 317.3652px;
+    border-radius: 32.65px;
+    background-color: rgb(255, 160, 212);
+    position: relative;
 }

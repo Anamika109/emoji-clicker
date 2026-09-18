@@ -1,5 +1,6 @@
 h1 {
-    background-color: rgb(74, 74, 203);
+    background-color: rgb(230, 32, 128);
+    border-radius: 4.87px;
 }
 
 #emoji {
@@ -7,4 +8,14 @@ h1 {
     background: none ;
     cursor: pointer;
     transition: transform 0.2;
+}
+
+.grid {
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 534.569px;
+    height: 417.3652px;
+    border-radius: 2.65px;
+    background-color: crimson;
 }
